@@ -9,7 +9,6 @@
 
 #include <iostream>
 #include <string>
-#include <vector>
 #include "strutils.h"
 #include "StudentList.h"
 
