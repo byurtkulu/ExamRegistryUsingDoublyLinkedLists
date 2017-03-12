@@ -1,0 +1,10 @@
+mcnulty      CS201    40
+stringer       ECON301   80
+avon         SPS303     90
+bubbles    ENG101      50
+omar          LAW404     97
+frank       MATH102     30
+lester      PSYCH202      70
+avon       CS204     75
+ziggy        NS101     24
+mcnulty        ENG102     50

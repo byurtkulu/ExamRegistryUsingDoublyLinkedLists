@@ -1,0 +1,6 @@
+bruce      ACC101     67
+rachel     FIN303  45
+alfred    LIT403     88
+harvey       MATH301    90
+joker         CS201     74
+gordon       ECON201      87
